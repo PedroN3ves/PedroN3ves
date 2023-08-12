@@ -1,9 +1,10 @@
 ### Hi there, I'm Pedro Neves
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 🤔 I’m looking for help with learning more about Programing
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can speak fluently english and portuguese.
+- I’m currently learning Frontend and Backend;
+  - Frontend: HTML, CSS and Javascript;
+  - Backend: Java and Javascript(NodeJs);
+  
+- I’m looking for help with learning more about Programing;
 
 <div align="center">
   <a href="https://github.com/PedroN3ves">
