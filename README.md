@@ -2,7 +2,7 @@
 
 - I’m currently studying Computer Engineer at UFAL
   
-- I’m looking for help with learning more about Programing;
+- I am a scholarship holder by Edge Academy
 
 <div align="center">
   <a href="https://github.com/PedroN3ves">
@@ -11,10 +11,11 @@
 </div>
 
 
-##
+### Here are the technologies that I'm learning
 
-<div>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-
-![Snake animation](https://github.com/PedroN3ves/PedroN3ves/blob/output/github-contribution-grid-snake.svg)
